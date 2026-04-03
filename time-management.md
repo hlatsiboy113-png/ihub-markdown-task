@@ -1,7 +1,7 @@
 # Time Management Systems for Developers: Time Blocking vs. Time Batching
 
 ## Executive Summary
-This document explores two powerful time management strategies—time blocking and time batching—and how developers can use them to improve productivity and focus. Understanding these methods helps reduce context switching, manage workloads efficiently, and deliver higher-quality code.
+This document explores two powerful time management strategies - time blocking and time batching - and how developers can use them to improve productivity and focus. Understanding these methods helps reduce context switching, manage workloads efficiently, and deliver higher-quality code.
 
 ---
 
